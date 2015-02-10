@@ -22,7 +22,7 @@ import android.widget.TextView;
 import com.ub.buffalo.GeneralMsgFormat.MsgType;
 
 /**
- * this class acts as background server
+ * This class acts as background server
  * @author vikram
  *
  */
